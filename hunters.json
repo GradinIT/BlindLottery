@@ -1,0 +1,12 @@
+{
+  hunters:[
+    {
+    name: 'hunter1',
+    email:'hunter1@mail.com',
+    phone:'070-1234567'},
+    {
+    name:'hunter2',
+    email:'hunter2@mail.com',
+    phone:'070-2345678'}
+  ]
+}
